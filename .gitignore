@@ -10,3 +10,4 @@ notebooks\Day_03_project\src\main.ipynb
 notebooks\Day_04\Frames
 pictures
 mnist
+*.pt
