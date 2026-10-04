@@ -12,3 +12,4 @@ pictures
 mnist
 *.pt
 *.mp4
+*.csv
